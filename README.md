@@ -1,4 +1,4 @@
-# exagenary-cycle
+# sexagenary-cycle
 
 육십갑자를 이용해 연도와 간지를 쌍방으로 변환해주는 Python CLI 도구입니다.
 
